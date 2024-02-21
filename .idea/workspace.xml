@@ -10,6 +10,20 @@
       <change beforePath="$PROJECT_DIR$/../Unit/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Unit/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unit/src/main/java/ru/netology/service/CashbackHackService.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Unit/src/main/java/ru/netology/service/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.7/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/ru.netology.rest.MobileBankApiTestV1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/ru.netology.rest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/ru.netology.rest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/resources/test/accounts.schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/accounts.schema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-ru.netology.rest.MobileBankApiTestV1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/accounts.schema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/accounts.schema.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +55,7 @@
     "last_opened_file_path": "C:/Users/user/IdeaProjects/rest"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.MobileBankApiTestV1">
+  <component name="RunManager" selected="Gradle.MobileBankApiTestV3.shouldReturnDemoAccounts">
     <configuration name="MobileBankApiTestV1" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -114,8 +128,58 @@
       <RunAsTest>true</RunAsTest>
       <method v="2" />
     </configuration>
+    <configuration name="MobileBankApiTestV3.shouldReturnDemoAccounts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.rest.MobileBankApiTestV3.shouldReturnDemoAccounts&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="MobileBankApiTestV4.shouldReturnDemoAccounts" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;ru.netology.rest.MobileBankApiTestV4.shouldReturnDemoAccounts&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.MobileBankApiTestV3.shouldReturnDemoAccounts" />
+        <item itemvalue="Gradle.MobileBankApiTestV4.shouldReturnDemoAccounts" />
         <item itemvalue="Gradle.MobileBankApiTestV1" />
         <item itemvalue="Gradle.MobileBankApiTestV2" />
         <item itemvalue="Gradle.MobileBankApiTestV1.shouldReturnDemoAccounts" />
